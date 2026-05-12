@@ -2,7 +2,7 @@
 
 # 🚀 Performix – Performance Management System
 
-Performix is a **full-stack Performance Management System** built using **React, Node.js, Express, and MySQL**. It supports role-based dashboards for **Admin, Manager, and Employees**, along with authentication, employee performance evaluation and insights, surveys, recommendations, personal GOALS setting, and Leaderboards.
+Performix is a **full-stack Performance Management System** built using **React, Node.js, Express, and MySQL**. It supports role-based dashboards for **Admin, Manager, and Employees**, along with authentication, employee performance evaluation and insights, surveys, recommendations, personal goals setting, and Leaderboards.
 
 ---
 
