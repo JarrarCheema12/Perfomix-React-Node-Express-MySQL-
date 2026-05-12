@@ -1,5 +1,3 @@
-Here is your **final, clean, production-ready README.md (fully corrected with auto DB + tables explanation included)** — ready to paste into GitHub:
-
 ---
 
 # 🚀 Performix – Performance Management System
