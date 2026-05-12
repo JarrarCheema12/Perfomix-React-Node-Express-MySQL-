@@ -1,0 +1,69 @@
+# =========================
+# Dependencies
+# =========================
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# =========================
+# Environment Variables
+# =========================
+.env
+client/.env
+server/.env
+
+# =========================
+# Build Output
+# =========================
+dist/
+build/
+client/dist/
+server/dist/
+
+# =========================
+# Vite Cache
+# =========================
+.vite/
+
+# =========================
+# Logs
+# =========================
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# =========================
+# Coverage Reports
+# =========================
+coverage/
+.nyc_output/
+
+# =========================
+# IDE / Editor Files
+# =========================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# =========================
+# Operating System Files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Temporary Files
+# =========================
+tmp/
+temp/
+
+# =========================
+# Optional Lock Files
+# (Keep these tracked if you want reproducible installs)
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
