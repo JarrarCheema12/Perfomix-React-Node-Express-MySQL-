@@ -61,7 +61,6 @@ Performix is a **full-stack Performance Management System** built using **React,
 * Survey & evaluation system
 * Real-time notifications
 * Google authentication
-* Modular & scalable architecture
 
 ---
 
