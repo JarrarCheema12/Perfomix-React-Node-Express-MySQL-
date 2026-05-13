@@ -26,20 +26,17 @@ Performix is a **full-stack Performance Management System** built using **React,
 * Performance metrics setup
 * Staff feedback monitoring
 * Leaderboard system
-* Reports & recommendations
-* Notifications system
+* Survey creation & responses
 
 ---
 
 ### 👨‍💼 Manager Panel
 
-* Manager dashboard overview
-* Team & department management
+* Manager dashboard with department analytics.
+* staff management
 * Performance evaluations
-* Survey creation & responses
-* Feedback management
 * Reports & analytics
-* Leaderboard view
+* Leaderboard tracking
 
 ---
 
@@ -47,7 +44,7 @@ Performix is a **full-stack Performance Management System** built using **React,
 
 * Personal dashboard
 * Goal tracking
-* Feedback submission
+* Recommendations
 * Survey participation
 * Performance reports
 * Leaderboard ranking
@@ -59,7 +56,7 @@ Performix is a **full-stack Performance Management System** built using **React,
 * Role-based routing (protected routes)
 * Dynamic dashboards per role
 * Survey & evaluation system
-* Real-time notifications
+* Recent Activities
 * Google authentication
 ---
 
